@@ -48,7 +48,7 @@ const english = {
     }
   ],
   projects: 'Projects',
-  download: 'Download Resume',
+  download: 'Download Resume/CV',
   other: 'OTHER KNOWLEDGE',
   floodDisneyApp: `(Node.js) API to explore the world of Disney, 
     which allows knowing and modifying the characters 
