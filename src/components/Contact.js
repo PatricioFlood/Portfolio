@@ -30,7 +30,9 @@ const Contact = ({content}) => {
               </div>
             </div>
             <div className="mt-8 text-center justify-center hidden md:flex">
-              <object className="h-56" data="/images/contact.svg"></object>
+              <object className="h-56" data="/images/contact.svg">
+                <title>Contact</title>
+              </object>
             </div>
           </div>
           <form onSubmit={ handleSubmit }>
