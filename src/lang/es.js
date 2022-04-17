@@ -46,6 +46,14 @@ const spanish = {
     {
       title: 'Sistemas Operativos',
       description: 'Linux, MacOS y Windows'
+    },
+    {
+      title: 'Metodologías Ágiles',
+      description: 'Scrum'
+    },
+    {
+      title: 'Idiomas',
+      description: 'Inglés nivel intermedio, Español nativo'
     }
   ],
   projects: 'Portafolio',

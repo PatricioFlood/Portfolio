@@ -45,6 +45,14 @@ const english = {
     {
       title: 'Operating Systems',
       description: 'Linux, MacOS y Windows'
+    },
+    {
+      title: 'Agile methodologies',
+      description: 'Scrum'
+    },
+    {
+      title: 'Languages',
+      description: 'English at intermediate level, native Spanish'
     }
   ],
   projects: 'Portfolio',
