@@ -48,15 +48,24 @@ const spanish = {
       description: 'Linux, MacOS y Windows'
     }
   ],
-  projects: 'Proyectos',
+  projects: 'Portafolio',
   download: 'Descargar CV',
   other: 'OTROS CONOCIMIENTOS',
-  floodDisneyApp: `(Node.js) API para explorar el mundo de disney, 
+  website: 'SITIO WEB',
+  repository: 'REPOSITORIO',
+  floodDisneyApp: `(Node.js, PostgreSQL, JWT, Tests) API REST para explorar el mundo de disney, 
   permite conocer y modificar los personajes
   que lo componen y entender en qué películas participaron.`,
-  floodLadder: `(Vue.js) IDE para programación Ladder and simulación de PLC, 
+  floodLadder: `(Vue.js) IDE para programación Ladder y simulación de PLC, 
     similar a MicroWin STEP7 de la marca de PLC Siemens S7-200, 
     hecha para estudiantes de la Escuela Técnica Nº1 "Ing. Otto Krause".`,
+  waStickerApp: `(JAVA) Aplicación de Android para agregar packetes de stickers de whatsapp, 
+  disponible en la Playstore con mas de 40 mil descargas y 4,7 estrellas.`,
+  salesSystem: `(PHP, MySQL) CRUD de un sistema de ventas con tablas de clientes, productos y ventas`,
+  huffmanCompressor: `(C++) Compresor y Descompresor de archivos utilizando la codificación de Huffman.`,
+  computerArchitectureHelper: `(C++) Programa para resolver ejercicios de la clase de Arquitectura de Computadoras paso a paso.
+  Resuelve conversiones (decimal a binario, enteros de base 'n' a base 'm' y decimal a IIEE-754 Precisión Simple)
+  y Sumas y Restas en BCD.`,
   name: 'NOMBRE',
   message: 'MENSAJE',
   send: 'ENVIAR'

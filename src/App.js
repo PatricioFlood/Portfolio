@@ -13,7 +13,7 @@ import 'aos/dist/aos.css'
 const App = () => {
   AOS.init()
 
-  const [language, setLanguage] = useState('spanish')
+  const [language, setLanguage] = useState('english')
   
   const content = language === 'spanish' ? lang.es : lang.en
 
