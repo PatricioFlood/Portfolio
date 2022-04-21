@@ -13,7 +13,7 @@ const english = {
       description: 'Express - APIs Development - OOP - MVC'}, 
     {
       title: 'Databases', 
-      description: 'Relationals (MySQL, PostgreSQL, etc) and No Relationals (MongoDB)'
+      description: 'Relationals (MySQL, PostgreSQL) and No Relationals (MongoDB)'
     },
     {
       title: 'Authentication',
